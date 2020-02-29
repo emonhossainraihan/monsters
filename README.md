@@ -1,3 +1,3 @@
 # monsters
-React Application 
-this application is just for leaning purpose
+## React Application 
+This application is just for leaning purpose. Demonstrating React class components with search functionality.
